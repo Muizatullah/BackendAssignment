@@ -1,0 +1,27 @@
+{
+  "name": "assignment-4",
+  "version": "1.0.0",
+  "description": "creating restfulapi with expressjs",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "git",
+    "express",
+    "http",
+    "npm"
+  ],
+  "author": "Bakri Muizat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
